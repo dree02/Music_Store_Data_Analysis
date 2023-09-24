@@ -2,7 +2,7 @@
 
 <h2> Project Overview </h2>
 <p>
-In this project, we have performed data analysis on a music store database using SQL. The analysis covers a wide range of questions, from identifying the senior-most employee based on job title to finding the most popular music genres in different countries. The project also involves determining the best customers, analyzing rock music listeners, and calculating customer spending on artists. Additionally, the project includes SQL queries optimized for efficiency.
+In this project, I have performed data analysis on a music store database using SQL. The analysis covers a wide range of questions, from identifying the senior-most employee based on job title to finding the most popular music genres in different countries. The project also involves determining the best customers, analyzing rock music listeners, and calculating customer spending on artists. Additionally, the project includes SQL queries optimized for efficiency.
 </p>
 
 <h2> Queries </h2>
@@ -10,7 +10,7 @@ In this project, we have performed data analysis on a music store database using
 <p>
 This section contains fundamental SQL queries that answer various questions about the music store data.
 
-Q1: Who is the senior most employee based on job title?
+<b>Q1: Who is the senior most employee based on job title?</b>
 
 This query retrieves the senior-most employee based on job title.
 
